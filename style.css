@@ -1,0 +1,12 @@
+.card {
+    box-shadow: 5px 10px 10px #ccc;
+    border-radius: 10px !important;
+    padding: 10px;
+}
+
+.img-fluid {
+    box-shadow: 5px 10px 10px #ccc;
+}
+    
+
+
